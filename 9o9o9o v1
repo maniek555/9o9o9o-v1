@@ -19,15 +19,15 @@ ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 Frame.Parent = ScreenGui
 Frame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-Frame.BorderColor3 = Color3.fromRGB(179, 0, 0)
+Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Frame.BorderSizePixel = 5
 Frame.Position = UDim2.new(0.219354838, 0, 0.366818875, 0)
 Frame.Size = UDim2.new(0, 222, 0, 258)
 
 disco.Name = "disco"
 disco.Parent = Frame
-disco.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
-disco.BorderColor3 = Color3.fromRGB(165, 3, 2)
+disco.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+disco.BorderColor3 = Color3.fromRGB(0, 0, 0)
 disco.BorderSizePixel = 3
 disco.Position = UDim2.new(0.0432040915, 0, 0.627848744, 0)
 disco.Size = UDim2.new(0, 89, 0, 24)
@@ -39,7 +39,7 @@ disco.TextSize = 14.000
 disco.TextWrapped = true
 
 TextLabel.Parent = Frame
-TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel.BackgroundTransparency = 1.000
 TextLabel.Position = UDim2.new(0.0468465462, 0, 0.0581395365, 0)
 TextLabel.Size = UDim2.new(0, 200, 0, 30)
@@ -50,7 +50,7 @@ TextLabel.TextSize = 33.000
 TextLabel.TextWrapped = true
 
 TextLabel_2.Parent = Frame
-TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel_2.BackgroundTransparency = 1.000
 TextLabel_2.Position = UDim2.new(-0.0872503072, 0, 0.151090518, 0)
 TextLabel_2.Size = UDim2.new(0, 259, 0, 35)
@@ -62,8 +62,8 @@ TextLabel_2.TextWrapped = true
 
 skybox.Name = "skybox"
 skybox.Parent = Frame
-skybox.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
-skybox.BorderColor3 = Color3.fromRGB(165, 3, 2)
+skybox.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+skybox.BorderColor3 = Color3.fromRGB(0, 0, 0)
 skybox.BorderSizePixel = 3
 skybox.Position = UDim2.new(0.497776628, 0, 0.342052966, 0)
 skybox.Size = UDim2.new(0, 99, 0, 24)
@@ -76,8 +76,8 @@ skybox.TextWrapped = true
 
 music2.Name = "music 2"
 music2.Parent = Frame
-music2.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
-music2.BorderColor3 = Color3.fromRGB(165, 3, 2)
+music2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+music2.BorderColor3 = Color3.fromRGB(0, 0, 0)
 music2.BorderSizePixel = 3
 music2.Position = UDim2.new(0.0432040915, 0, 0.751909435, 0)
 music2.Size = UDim2.new(0, 89, 0, 22)
@@ -90,8 +90,8 @@ music2.TextWrapped = true
 
 particlesspam.Name = "particles spam"
 particlesspam.Parent = Frame
-particlesspam.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
-particlesspam.BorderColor3 = Color3.fromRGB(165, 3, 2)
+particlesspam.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+particlesspam.BorderColor3 = Color3.fromRGB(0, 0, 0)
 particlesspam.BorderSizePixel = 3
 particlesspam.Position = UDim2.new(0.0432040915, 0, 0.863798976, 0)
 particlesspam.Size = UDim2.new(0, 200, 0, 28)
@@ -104,8 +104,8 @@ particlesspam.TextWrapped = true
 
 musicstop.Name = "music stop"
 musicstop.Parent = Frame
-musicstop.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
-musicstop.BorderColor3 = Color3.fromRGB(165, 3, 2)
+musicstop.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+musicstop.BorderColor3 = Color3.fromRGB(0, 0, 0)
 musicstop.BorderSizePixel = 3
 musicstop.Position = UDim2.new(0.503015995, 0, 0.751909375, 0)
 musicstop.Size = UDim2.new(0, 98, 0, 22)
@@ -118,8 +118,8 @@ musicstop.TextWrapped = true
 
 jumpscare2.Name = "jumpscare 2"
 jumpscare2.Parent = Frame
-jumpscare2.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
-jumpscare2.BorderColor3 = Color3.fromRGB(165, 3, 2)
+jumpscare2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+jumpscare2.BorderColor3 = Color3.fromRGB(0, 0, 0)
 jumpscare2.BorderSizePixel = 3
 jumpscare2.Position = UDim2.new(0.502149999, 0, 0.627207756, 0)
 jumpscare2.Size = UDim2.new(0, 98, 0, 25)
@@ -132,8 +132,8 @@ jumpscare2.TextWrapped = true
 
 decalspam.Name = "decal spam"
 decalspam.Parent = Frame
-decalspam.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
-decalspam.BorderColor3 = Color3.fromRGB(165, 3, 2)
+decalspam.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+decalspam.BorderColor3 = Color3.fromRGB(0, 0, 0)
 decalspam.BorderSizePixel = 3
 decalspam.Position = UDim2.new(0.0423839688, 0, 0.342052966, 0)
 decalspam.Size = UDim2.new(0, 88, 0, 24)
@@ -146,8 +146,8 @@ decalspam.TextWrapped = true
 
 jumpscare1.Name = "5x5x5x50s🤑"
 jumpscare1.Parent = Frame
-jumpscare1.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
-jumpscare1.BorderColor3 = Color3.fromRGB(165, 3, 2)
+jumpscare1.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+jumpscare1.BorderColor3 = Color3.fromRGB(0, 0, 0)
 jumpscare1.BorderSizePixel = 3
 jumpscare1.Position = UDim2.new(0.497776628, 0, 0.478623748, 0)
 jumpscare1.Size = UDim2.new(0, 99, 0, 28)
@@ -160,8 +160,8 @@ jumpscare1.TextWrapped = true
 
 hint.Name = "hint"
 hint.Parent = Frame
-hint.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
-hint.BorderColor3 = Color3.fromRGB(165, 3, 2)
+hint.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+hint.BorderColor3 = Color3.fromRGB(0, 0, 0)
 hint.BorderSizePixel = 3
 hint.Position = UDim2.new(0.039653331, 0, 0.477504045, 0)
 hint.Size = UDim2.new(0, 89, 0, 29)
